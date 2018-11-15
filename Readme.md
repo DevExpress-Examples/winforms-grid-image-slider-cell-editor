@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/WindowsFormsApplication202/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication202/Form1.vb))**
+* [Form1.resx](./CS/WindowsFormsApplication202/Form1.resx)
+* [ImageSliderHelper.cs](./CS/WindowsFormsApplication202/ImageSliderHelper.cs) (VB: [ImageSliderHelper.vb](./VB/WindowsFormsApplication202/ImageSliderHelper.vb))
+* [MyImageSlider.cs](./CS/WindowsFormsApplication202/MyImageSlider.cs) (VB: [MyImageSlider.vb](./VB/WindowsFormsApplication202/MyImageSlider.vb))
+<!-- default file list end -->
 # How to use ImageSlider as an in-place editor
 
 
